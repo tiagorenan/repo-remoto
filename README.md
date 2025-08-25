@@ -1,2 +1,2 @@
 # repo-remoto
-Repo-remoto descrição inserida antes do clone
+Repo-remoto commit antes do clone
